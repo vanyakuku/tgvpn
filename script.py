@@ -4,7 +4,7 @@ from servers_config import SERVERS
 
 
 class VPNManager:
-    """Управляет всеми серверами через 123единый ерфейс"""
+    """Управляет всеми с123123ерверами через 123единый ерфейс"""
 
     async def create_subscription(self, server_code: str, 
                                    telegram_id: int, 
